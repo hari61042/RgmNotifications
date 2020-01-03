@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72535328973",
+    "firebase_url": "https://rgmnotifications.firebaseio.com",
+    "project_id": "rgmnotifications",
+    "storage_bucket": "rgmnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72535328973:android:c8afa656d01a033a",
+        "android_client_info": {
+          "package_name": "com.example.rgmnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72535328973-g9c315rhctmh6liu8lal87rl9imduhd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rgmnotifications",
+            "certificate_hash": "430b4c3cbf338fe68d28b1849ebe76370dc96ac5"
+          }
+        },
+        {
+          "client_id": "72535328973-ci0ansnai63o116iihq8ocvoqs92qqco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8h6N9m7n4GSbAkssLBX_T0q2sms4bfoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72535328973-ci0ansnai63o116iihq8ocvoqs92qqco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
